@@ -1,0 +1,4 @@
+sdk: streamlit
+app_file: src/app.py
+python_version: 3.11.9
+hardware: cpu-basic
