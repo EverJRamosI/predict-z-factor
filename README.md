@@ -1,6 +1,6 @@
 ---
 title: Predict Z Factor
-emoji: 🇿
+emoji: ⚡
 colorFrom: blue
 colorTo: red
 sdk: streamlit
