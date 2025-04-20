@@ -1,3 +1,14 @@
+---
+title: Predict Z Factor
+emoji: 🇿
+colorFrom: blue
+colorTo: red
+sdk: streamlit
+sdk_version: "1.44.1"
+app_file: app.py
+pinned: false
+---
+
 # 🧠 Predict Z-Factor App
 
 This Streamlit web application uses a TensorFlow-trained neural network to predict the gas compressibility factor (Z-factor) based on:
